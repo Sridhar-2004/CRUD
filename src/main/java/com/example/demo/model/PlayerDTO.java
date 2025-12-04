@@ -10,5 +10,4 @@ public class PlayerDTO {
   private long playerNumber;
   private String playerGender;
 
-
 }
